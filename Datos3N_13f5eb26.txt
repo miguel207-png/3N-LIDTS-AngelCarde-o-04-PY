@@ -1,0 +1,6 @@
+Nombre : angel
+Apellidos : cardeno lopez
+Edad : 20
+Telefono : 9614639583
+Estatura : 1.62
+Genero : Masculino
